@@ -130,3 +130,13 @@ indicadores potencialmente suspeitos.
 </p>
 
 ---
+
+<h2>🐍 root@rodrigo:~$ ./snake.sh</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Rodrigopegado/Rodrigopegado/output/github-snake.svg"
+    alt="Snake animation"
+    width="100%"
+  />
+</p>
