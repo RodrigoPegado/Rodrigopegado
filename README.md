@@ -9,22 +9,22 @@
 
 ---
 
+
 ### 💻 `root@rodrigo:~$ whoami`
 
 # Olá, eu sou Rodrigo! 👋
 
-**Estudante de TI | Redes de Computadores | Cibersegurança**
+**Graduando em Segurança da Informação | Redes de Computadores | Cibersegurança**
 
-Sou estudante de Tecnologia da Informação, construindo minha base em redes de computadores, sistemas operacionais, programação e segurança da informação.
+Sou estudante de Segurança da Informação, construindo minha base em redes de computadores, sistemas operacionais, programação e segurança da informação.
 
-Atualmente, estou aprofundando meus conhecimentos em **Linux, Python, redes e fundamentos de cibersegurança**, aplicando o que aprendo em laboratórios práticos e projetos pessoais.
+Atualmente, estou aprofundando meus conhecimentos em **Linux, Python, redes e fundamentos de cibersegurança**, aplicando o que aprendo em laboratórios práticos e projetos pessoais documentados no GitHub.
 
-Meu objetivo é conquistar minha primeira oportunidade profissional em TI e desenvolver minha carreira na área de **cibersegurança**, explorando tanto a segurança ofensiva quanto a defensiva.
+Meu objetivo é conquistar minha primeira oportunidade profissional em TI, especialmente em **Suporte Técnico e Infraestrutura**, enquanto desenvolvo meus conhecimentos para atuar futuramente na área de **cibersegurança**, com interesse em segurança ofensiva e defensiva.
 
 `[ LEARNING • BUILDING • SECURING ]`
 
 ---
-
 
 <h2>🛠️ root@rodrigo:~$ ls /tools</h2>
 
@@ -52,48 +52,56 @@ Meu objetivo é conquistar minha primeira oportunidade profissional em TI e dese
 
 ---
 
-
 <h2>📂 root@rodrigo:~$ ls /projects</h2>
 
 <p>
-  Laboratórios e projetos desenvolvidos durante
-  minha jornada de aprendizado em TI e Cibersegurança.
+  Laboratórios e projetos desenvolvidos durante minha jornada
+  de aprendizado em TI, redes de computadores e cibersegurança.
 </p>
 
 <h3>🌐 01 // Network Infrastructure Lab</h3>
 
 **Status:** Prática realizada — documentação em preparação
 
-Laboratório de redes utilizando Cisco Packet Tracer,
-com configuração de endereçamento IP, gateway,
-dispositivos de rede e testes de conectividade.
+Laboratório de redes utilizando Cisco Packet Tracer, com configuração de endereçamento IP, gateway, dispositivos de rede e testes de conectividade.
 
 **Tecnologias:** Cisco Packet Tracer, TCP/IP, ICMP.
 
 ---
 
-<h3>🔎 02 // Network Traffic Analysis</h3>
+<h3>🔎 02 // Wireshark Network Traffic Lab</h3>
 
-**Status:** Em estudo
+**Status:** ✅ Concluído
 
-Práticas de captura e análise de tráfego de rede
-utilizando Wireshark, explorando filtros,
-pacotes e protocolos de comunicação.
+Laboratório prático de análise de tráfego de rede utilizando Wireshark em uma máquina virtual Ubuntu Linux.
 
-**Tecnologias:** Wireshark, TCP/IP.
+Foram realizados quatro experimentos envolvendo os protocolos ICMP, DNS, TCP, HTTP e HTTPS, com análise de pacotes, filtros, conexões e comportamento dos protocolos.
+
+O projeto inclui documentação técnica e arquivos PCAPNG como evidências das atividades realizadas.
+
+**Tecnologias:** Wireshark, Ubuntu Linux, TCP/IP, DNS, HTTP, HTTPS, TLS.
+
+<a href="https://github.com/Rodrigopegado/wireshark-network-traffic-lab">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-1679A7?style=for-the-badge&logo=github&logoColor=white" alt="Ver laboratório Wireshark"/>
+</a>
 
 ---
 
 <h3>🛡️ 03 // Python File Security Analyzer</h3>
 
-**Status:** Planejado
+**Status:** ✅ Concluído
 
-Projeto de ferramenta defensiva em Python para
-analisar arquivos de diretórios autorizados,
-calcular hashes SHA-256 e sinalizar
-indicadores potencialmente suspeitos.
+Ferramenta defensiva desenvolvida em Python para análise de arquivos e diretórios autorizados.
 
-**Tecnologias:** Python, hashlib, pathlib.
+O projeto permite coletar metadados, calcular hashes SHA-256, aplicar regras simples para identificar indicadores potencialmente suspeitos e gerar relatórios técnicos em formato TXT.
+
+Também foram implementados testes automatizados com Pytest para verificar o funcionamento de componentes da aplicação.
+
+**Tecnologias:** Python, hashlib, pathlib, Pytest, Git.
+
+<a href="https://github.com/Rodrigopegado/python-file-security-analyzer">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-087F77?style=for-the-badge&logo=github&logoColor=white" alt="Ver Python File Security Analyzer"/>
+</a>
 
 ---
 
@@ -101,6 +109,7 @@ indicadores potencialmente suspeitos.
   <i>Learning by doing • Building through practice</i>
 </p>
 
+---
 
 <h2>📡 root@rodrigo:~$ ./connect.sh</h2>
 
@@ -140,3 +149,4 @@ indicadores potencialmente suspeitos.
     width="100%"
   />
 </p>
+
