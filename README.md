@@ -59,13 +59,25 @@ Meu objetivo é conquistar minha primeira oportunidade profissional em TI, espec
   de aprendizado em TI, redes de computadores e cibersegurança.
 </p>
 
-<h3>🌐 01 // Network Infrastructure Lab</h3>
+<h3>🌐 01 // Enterprise Network Lab — Cisco Packet Tracer</h3>
 
-**Status:** Prática realizada — documentação em preparação
+**Status:** ✅ Infraestrutura implementada e documentada | ACL em validação
 
-Laboratório de redes utilizando Cisco Packet Tracer, com configuração de endereçamento IP, gateway, dispositivos de rede e testes de conectividade.
+Laboratório prático de infraestrutura de redes empresariais desenvolvido no **Cisco Packet Tracer**, simulando uma organização com departamentos Administrativo, Suporte TI e Servidores.
 
-**Tecnologias:** Cisco Packet Tracer, TCP/IP, ICMP.
+O projeto envolve a implementação de três VLANs, roteamento entre redes utilizando Router-on-a-Stick, configuração de trunk IEEE 802.1Q e serviços centralizados de DHCP, DHCP Relay, DNS e HTTP.
+
+Foram realizados testes de conectividade entre departamentos, resolução de nomes, distribuição automática de endereços IPv4 e acesso a um portal web interno.
+
+Também foram documentados procedimentos de troubleshooting e uma política de controle de acesso utilizando ACL estendida, ainda pendente de validação final.
+
+O repositório inclui o arquivo de topologia `.pkt` e documentação técnica das configurações e dos problemas encontrados.
+
+**Tecnologias:** Cisco Packet Tracer, Cisco IOS, TCP/IP, VLANs, IEEE 802.1Q, DHCP, DNS, HTTP, ICMP e ACLs.
+
+<a href="https://github.com/Rodrigopegado/packet-tracer-network-lab">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-049FD9?style=for-the-badge&logo=github&logoColor=white" alt="Ver Enterprise Network Lab"/>
+</a>
 
 ---
 
